@@ -2,7 +2,7 @@ pipeline {
    agent any
 
    environment {
-     // set the following environment variables from local test3
+     // set the following environment variables from local test4
      // ORGANIZATION_NAME
      // YOUR_DOCKERHUB_USERNAME (mention any meaning fullname doesn't matter if you don't have one)
 
