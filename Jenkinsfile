@@ -2,7 +2,7 @@ pipeline {
    agent any
 
    environment {
-     // set the following environment variables to test
+     // set the following environment variables from local
      // ORGANIZATION_NAME
      // YOUR_DOCKERHUB_USERNAME (mention any meaning fullname doesn't matter if you don't have one)
 
